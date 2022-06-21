@@ -1,6 +1,5 @@
 package com.codewithmosh;
 
-import java.sql.SQLOutput;
 
 public class Browser {
     public void navigate(String address){
